@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T09:28:51.023314+00:00",
-  "source": "SEC Proxy /live (v2.3, 365d lookback)",
+  "generated_at": "2026-05-27T10:02:26.001710+00:00",
+  "source": "Hermes Cache Updater (on-demand)",
   "tickers": {
     "AAPL": {
       "price": {
@@ -359,12 +359,11 @@
       },
       "institutional": {
         "ownership_pct": "73.75%",
-        "activity": [
+        "top_holders": [
           {
             "holder": "Blackrock Inc.",
             "shares": "735564992",
             "value": "195138043013",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -373,7 +372,6 @@
             "holder": "Vanguard Capital Management LLC",
             "shares": "631176205",
             "value": "167444740817",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -382,7 +380,6 @@
             "holder": "State Street Corporation",
             "shares": "390450321",
             "value": "103582568994",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -391,7 +388,6 @@
             "holder": "FMR, LLC",
             "shares": "358698691",
             "value": "95159178800",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -400,7 +396,6 @@
             "holder": "Geode Capital Management, LLC",
             "shares": "233228057",
             "value": "61873073234",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -409,7 +404,6 @@
             "holder": "Morgan Stanley",
             "shares": "173925856",
             "value": "46140791824",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -418,7 +412,6 @@
             "holder": "JPMORGAN CHASE & CO",
             "shares": "168937577",
             "value": "44817451245",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -427,7 +420,6 @@
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "127012849",
             "value": "33695239796",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -436,7 +428,6 @@
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "122998950",
             "value": "32630392496",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -445,7 +436,6 @@
             "holder": "Capital Research Global Investors",
             "shares": "118434267",
             "value": "31419427704",
-            "price": 265.29,
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3945,19 +3935,6 @@
       "derivative": false
     },
     {
-      "ticker": "AMZN",
-      "insider_name": "Zapolsky David",
-      "role": "Senior Vice President",
-      "date": "2026-05-22",
-      "type": "SELL",
-      "shares": 9270,
-      "price": 268.53,
-      "value": 2489273,
-      "security": "Common Stock",
-      "filing_date": "2026-05-22",
-      "derivative": false
-    },
-    {
       "ticker": "BRK-B",
       "insider_name": "BUFFETT WARREN E",
       "role": "",
@@ -4163,6 +4140,58 @@
       "value": 114050,
       "security": "Common Stock",
       "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Zapolsky David",
+      "role": "Senior Vice President",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 9270,
+      "price": 268.53,
+      "value": 2489273,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Furner John R.",
+      "role": "President &amp; CEO",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 12100,
+      "price": 124.01,
+      "value": 1500521,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Furner John R.",
+      "role": "President &amp; CEO",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 1025,
+      "price": 124.93,
+      "value": 128053,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Nicholas Christopher James",
+      "role": "Executive Vice President",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 2900,
+      "price": 123.92,
+      "value": 359368,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
       "derivative": false
     },
     {
@@ -4616,45 +4645,6 @@
       "shares": 300,
       "price": 263.99,
       "value": 79197,
-      "security": "Common Stock",
-      "filing_date": "2026-05-21",
-      "derivative": false
-    },
-    {
-      "ticker": "WMT",
-      "insider_name": "Furner John R.",
-      "role": "President &amp; CEO",
-      "date": "2026-05-21",
-      "type": "SELL",
-      "shares": 12100,
-      "price": 124.01,
-      "value": 1500521,
-      "security": "Common Stock",
-      "filing_date": "2026-05-21",
-      "derivative": false
-    },
-    {
-      "ticker": "WMT",
-      "insider_name": "Furner John R.",
-      "role": "President &amp; CEO",
-      "date": "2026-05-21",
-      "type": "SELL",
-      "shares": 1025,
-      "price": 124.93,
-      "value": 128053,
-      "security": "Common Stock",
-      "filing_date": "2026-05-21",
-      "derivative": false
-    },
-    {
-      "ticker": "WMT",
-      "insider_name": "Nicholas Christopher James",
-      "role": "Executive Vice President",
-      "date": "2026-05-21",
-      "type": "SELL",
-      "shares": 2900,
-      "price": 123.92,
-      "value": 359368,
       "security": "Common Stock",
       "filing_date": "2026-05-21",
       "derivative": false
@@ -7091,136 +7081,6 @@
       "derivative": false
     },
     {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 13500,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 3389,
-      "price": 261.7887,
-      "value": 887202,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 6151,
-      "price": 262.8454,
-      "value": 1616762,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 1935,
-      "price": 263.5705,
-      "value": 510009,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 9353,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 1044,
-      "price": 261.7441,
-      "value": 273261,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 2098,
-      "price": 262.725,
-      "value": 551197,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 600,
-      "price": 263.5733,
-      "value": 158144,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Ng Andrew Y.",
-      "role": "",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 1984,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "NOOYI INDRA K",
-      "role": "",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 1602,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
       "ticker": "META",
       "insider_name": "Powell Dina H.",
       "role": "President and Vice Chairman",
@@ -7934,6 +7794,136 @@
       "security": "Common Stock",
       "filing_date": "2026-05-15",
       "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 13500,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 3389,
+      "price": 261.7887,
+      "value": 887202,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 6151,
+      "price": 262.8454,
+      "value": 1616762,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 1935,
+      "price": 263.5705,
+      "value": 510009,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 9353,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 1044,
+      "price": 261.7441,
+      "value": 273261,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 2098,
+      "price": 262.725,
+      "value": 551197,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 600,
+      "price": 263.5733,
+      "value": 158144,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Ng Andrew Y.",
+      "role": "",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 1984,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "NOOYI INDRA K",
+      "role": "",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 1602,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
     },
     {
       "ticker": "MSFT",
