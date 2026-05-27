@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T06:13:10.099994+00:00",
+  "generated_at": "2026-05-27T07:59:09.173432+00:00",
   "source": "Hermes Cache Updater (on-demand)",
   "tickers": {
     "AAPL": {
@@ -3301,86 +3301,100 @@
       "price": {
         "price": 87.68,
         "change_pct": -1.03837,
-        "market_cap": 369202823168,
-        "volume": 22843243
+        "market_cap": 369202823168
       },
       "institutional": {
-        "ownership_pct": "84.99%",
-        "activity": [
+        "ownership_pct": "90.05%",
+        "top_holders": [
           {
             "holder": "Blackrock Inc.",
-            "shares": 346247929,
-            "value": 30359018520,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "346247929",
+            "value": "30359018520",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Vanguard Capital Management LLC",
-            "shares": 274400652,
-            "value": 24059449251,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "274400652",
+            "value": "24059449251",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "FMR, LLC",
-            "shares": 204650883,
-            "value": 17943789483,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "204650883",
+            "value": "17943789483",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "State Street Corporation",
-            "shares": 171654762,
-            "value": 15050689584,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "171654762",
+            "value": "15050689584",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Geode Capital Management, LLC",
-            "shares": 103528586,
-            "value": 9077386452,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "103528586",
+            "value": "9077386452",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Capital World Investors",
-            "shares": 99103552,
-            "value": 8689399469,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "99103552",
+            "value": "8689399469",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Price (T.Rowe) Associates Inc",
-            "shares": 99031792,
-            "value": 8683107552,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "99031792",
+            "value": "8683107552",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Morgan Stanley",
-            "shares": 99018124,
-            "value": 8681909142,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "99018124",
+            "value": "8681909142",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Vanguard Portfolio Management LLC",
-            "shares": 75398731,
-            "value": 6610960757,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "75398731",
+            "value": "6610960757",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           },
           {
             "holder": "Capital Research Global Investors",
-            "shares": 68045981,
-            "value": 5966271634,
-            "change_pct": 0.0,
-            "date": "2026-03-31"
+            "shares": "68045981",
+            "value": "5966271634",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
           }
         ]
       },
       "insider": {
-        "total_filings": 46
+        "total_filings": 206,
+        "total_trades": 37,
+        "buys": 15,
+        "sells": 22,
+        "buy_value": 0,
+        "sell_value": 12783318
       }
     },
     "ADBE": {
@@ -4169,6 +4183,106 @@
         "sells": 24,
         "buy_value": 0,
         "sell_value": 1444732
+      }
+    },
+    "SAP": {
+      "price": {
+        "price": 175.15,
+        "change_pct": -0.454676,
+        "market_cap": 206489993216
+      },
+      "institutional": {
+        "ownership_pct": "7.12%",
+        "top_holders": [
+          {
+            "holder": "Fisher Asset Management, LLC",
+            "shares": "14534441",
+            "value": "2545707252",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Eagle Capital Management LLC",
+            "shares": "7848603",
+            "value": "1374682767",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "FMR, LLC",
+            "shares": "6581080",
+            "value": "1152676121",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Capital International Investors",
+            "shares": "5011856",
+            "value": "877826547",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Shaw D.E. & Co., Inc.",
+            "shares": "4256672",
+            "value": "745556074",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Morgan Stanley",
+            "shares": "3616017",
+            "value": "633345355",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Goldman Sachs Group Inc",
+            "shares": "3300374",
+            "value": "578060485",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Windacre Partnership LLC",
+            "shares": "2762125",
+            "value": "483786176",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Bank of America Corporation",
+            "shares": "2018383",
+            "value": "353519770",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          },
+          {
+            "holder": "Northern Trust Corporation",
+            "shares": "1429828",
+            "value": "250434365",
+            "change_pct": "",
+            "pct_out": "",
+            "date": "2026-03-31 00:00:00"
+          }
+        ]
+      },
+      "insider": {
+        "total_filings": 0,
+        "total_trades": 0,
+        "buys": 0,
+        "sells": 0,
+        "buy_value": 0,
+        "sell_value": 0
       }
     }
   },
@@ -8191,6 +8305,45 @@
       "derivative": true
     },
     {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-07",
+      "type": "SELL",
+      "shares": 27312,
+      "price": 88.6944,
+      "value": 2422421,
+      "security": "Common Stock",
+      "filing_date": "2026-05-07",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-07",
+      "type": "SELL",
+      "shares": 9253,
+      "price": 88.9522,
+      "value": 823075,
+      "security": "Common Stock",
+      "filing_date": "2026-05-07",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-06",
+      "type": "G",
+      "shares": 1209,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-06",
+      "derivative": false
+    },
+    {
       "ticker": "WMT",
       "insider_name": "Milum Dwayne M",
       "role": "Officer/SVP &amp; Controller",
@@ -8386,6 +8539,58 @@
       "derivative": true
     },
     {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-05",
+      "type": "SELL",
+      "shares": 13017,
+      "price": 87.9642,
+      "value": 1145030,
+      "security": "Common Stock",
+      "filing_date": "2026-05-05",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-05",
+      "type": "SELL",
+      "shares": 7256,
+      "price": 87.9738,
+      "value": 638338,
+      "security": "Common Stock",
+      "filing_date": "2026-05-05",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-05",
+      "type": "SELL",
+      "shares": 7039,
+      "price": 87.9754,
+      "value": 619259,
+      "security": "Common Stock",
+      "filing_date": "2026-05-05",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-05",
+      "type": "SELL",
+      "shares": 5722,
+      "price": 88.0847,
+      "value": 504021,
+      "security": "Common Stock",
+      "filing_date": "2026-05-05",
+      "derivative": false
+    },
+    {
       "ticker": "AMZN",
       "insider_name": "Jassy Andrew R",
       "role": "Director/Officer/President and CEO",
@@ -8422,6 +8627,396 @@
       "value": 0,
       "security": "Common Stock, par value $.01  per share",
       "filing_date": "2026-05-05",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 8780,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 4900,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 4748,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 4371,
+      "price": 92.06,
+      "value": 402394,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 2440,
+      "price": 92.06,
+      "value": 224626,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Neumann Spencer Adam",
+      "role": "Chief Financial Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 2364,
+      "price": 92.06,
+      "value": 217630,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 25920,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 14450,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 14018,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 12903,
+      "price": 92.06,
+      "value": 1187850,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 7194,
+      "price": 92.06,
+      "value": 662280,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "SARANDOS THEODORE A",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 6979,
+      "price": 92.06,
+      "value": 642487,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 25920,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 14450,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 14018,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 12903,
+      "price": 92.06,
+      "value": 1187850,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 7194,
+      "price": 92.06,
+      "value": 662280,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Peters Gregory K",
+      "role": "Co-CEO",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 6979,
+      "price": 92.06,
+      "value": 642487,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 3160,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 1470,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 1538,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 1550,
+      "price": 92.06,
+      "value": 142693,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 722,
+      "price": 92.06,
+      "value": 66467,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "Willems Cletus R",
+      "role": "Chief Global Affairs Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 755,
+      "price": 92.06,
+      "value": 69505,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 5430,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 3030,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "EXERCISE",
+      "shares": 2939,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": true
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 2704,
+      "price": 92.06,
+      "value": 248930,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 1509,
+      "price": 92.06,
+      "value": 138919,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
+      "derivative": false
+    },
+    {
+      "ticker": "NFLX",
+      "insider_name": "HYMAN DAVID A",
+      "role": "Chief Legal Officer",
+      "date": "2026-05-04",
+      "type": "TAX_SELL",
+      "shares": 1464,
+      "price": 92.06,
+      "value": 134776,
+      "security": "Common Stock",
+      "filing_date": "2026-05-04",
       "derivative": false
     },
     {
