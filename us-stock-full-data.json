@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-27T10:02:26.001710+00:00",
-  "source": "Hermes Cache Updater (on-demand)",
+  "generated_at": "2026-05-28T08:00:30.068853+00:00",
+  "source": "SEC Proxy /live (v2.3, 365d lookback)",
   "tickers": {
     "AAPL": {
       "price": {
-        "price": 308.33,
-        "change_pct": -0.158675,
-        "market_cap": 4528552280064
+        "price": 310.85,
+        "change_pct": 0.817312,
+        "market_cap": 4565564915712
       },
       "institutional": {
         "ownership_pct": "74.96%",
@@ -14,8 +14,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "1144695425",
-            "value": "$352.9B (@ $308.33)",
-            "price": 308.33,
+            "value": "$355.8B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -23,8 +22,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "953847648",
-            "value": "$294.1B (@ $308.33)",
-            "price": 308.33,
+            "value": "$296.5B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -32,8 +30,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "602341409",
-            "value": "$185.7B (@ $308.33)",
-            "price": 308.33,
+            "value": "$187.2B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -41,8 +38,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "368616954",
-            "value": "$113.7B (@ $308.33)",
-            "price": 308.33,
+            "value": "$114.6B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -50,8 +46,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "331437055",
-            "value": "$102.2B (@ $308.33)",
-            "price": 308.33,
+            "value": "$103.0B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -59,8 +54,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "307442040",
-            "value": "$94.8B (@ $308.33)",
-            "price": 308.33,
+            "value": "$95.6B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -68,8 +62,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "244474722",
-            "value": "$75.4B (@ $308.33)",
-            "price": 308.33,
+            "value": "$76.0B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -77,8 +70,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "231622141",
-            "value": "$71.4B (@ $308.33)",
-            "price": 308.33,
+            "value": "$72.0B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -86,8 +78,7 @@
           {
             "holder": "Berkshire Hathaway, Inc",
             "shares": "227917808",
-            "value": "$70.3B (@ $308.33)",
-            "price": 308.33,
+            "value": "$70.8B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -95,8 +86,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "200426620",
-            "value": "$61.8B (@ $308.33)",
-            "price": 308.33,
+            "value": "$62.3B (@ $310.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -114,9 +104,9 @@
     },
     "MSFT": {
       "price": {
-        "price": 416.03,
-        "change_pct": -0.60683,
-        "market_cap": 3090451791872
+        "price": 412.67,
+        "change_pct": -0.807631,
+        "market_cap": 3065492275200
       },
       "institutional": {
         "ownership_pct": "83.06%",
@@ -124,8 +114,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "593328571",
-            "value": "$246.8B (@ $416.03)",
-            "price": 416.03,
+            "value": "$244.8B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -133,8 +122,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "482558086",
-            "value": "$200.8B (@ $416.03)",
-            "price": 416.03,
+            "value": "$199.1B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -142,8 +130,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "306708289",
-            "value": "$127.6B (@ $416.03)",
-            "price": 416.03,
+            "value": "$126.6B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -151,8 +138,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "190211367",
-            "value": "$79.1B (@ $416.03)",
-            "price": 416.03,
+            "value": "$78.5B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -160,8 +146,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "188501918",
-            "value": "$78.4B (@ $416.03)",
-            "price": 416.03,
+            "value": "$77.8B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -169,8 +154,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "167490848",
-            "value": "$69.7B (@ $416.03)",
-            "price": 416.03,
+            "value": "$69.1B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -178,8 +162,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "127128999",
-            "value": "$52.9B (@ $416.03)",
-            "price": 416.03,
+            "value": "$52.5B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -187,8 +170,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "124881288",
-            "value": "$52.0B (@ $416.03)",
-            "price": 416.03,
+            "value": "$51.5B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -196,8 +178,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "117242934",
-            "value": "$48.8B (@ $416.03)",
-            "price": 416.03,
+            "value": "$48.4B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -205,8 +186,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "96093061",
-            "value": "$40.0B (@ $416.03)",
-            "price": 416.03,
+            "value": "$39.7B (@ $412.67)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -224,9 +204,9 @@
     },
     "NVDA": {
       "price": {
-        "price": 214.86,
-        "change_pct": -0.21827,
-        "market_cap": 5204124106752
+        "price": 212.6,
+        "change_pct": -1.05185,
+        "market_cap": 5149384769536
       },
       "institutional": {
         "ownership_pct": null,
@@ -243,9 +223,9 @@
     },
     "GOOGL": {
       "price": {
-        "price": 388.88,
-        "change_pct": 1.5432,
-        "market_cap": 4711453818880
+        "price": 388.83,
+        "change_pct": -0.0128621,
+        "market_cap": 4710847741952
       },
       "institutional": {
         "ownership_pct": "88.47%",
@@ -253,8 +233,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "446980992",
-            "value": "$173.8B (@ $388.88)",
-            "price": 388.88,
+            "value": "$173.8B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -262,8 +241,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "378261579",
-            "value": "$147.1B (@ $388.88)",
-            "price": 388.88,
+            "value": "$147.1B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -271,8 +249,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "236544675",
-            "value": "$92.0B (@ $388.88)",
-            "price": 388.88,
+            "value": "$92.0B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -280,8 +257,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "226259132",
-            "value": "$88.0B (@ $388.88)",
-            "price": 388.88,
+            "value": "$88.0B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -289,8 +265,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "151888094",
-            "value": "$59.1B (@ $388.88)",
-            "price": 388.88,
+            "value": "$59.1B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -298,8 +273,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "120955598",
-            "value": "$47.0B (@ $388.88)",
-            "price": 388.88,
+            "value": "$47.0B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -307,8 +281,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "96536714",
-            "value": "$37.5B (@ $388.88)",
-            "price": 388.88,
+            "value": "$37.5B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -316,8 +289,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "80506798",
-            "value": "$31.3B (@ $388.88)",
-            "price": 388.88,
+            "value": "$31.3B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -325,8 +297,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "70925551",
-            "value": "$27.6B (@ $388.88)",
-            "price": 388.88,
+            "value": "$27.6B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -334,8 +305,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "68768715",
-            "value": "$26.7B (@ $388.88)",
-            "price": 388.88,
+            "value": "$26.7B (@ $388.83)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -343,27 +313,27 @@
         ]
       },
       "insider": {
-        "total_filings": 168,
-        "total_trades": 46,
+        "total_filings": 172,
+        "total_trades": 36,
         "buys": 2,
-        "sells": 52,
+        "sells": 43,
         "buy_value": 0,
-        "sell_value": 9259756
+        "sell_value": 10240780
       }
     },
     "AMZN": {
       "price": {
-        "price": 265.29,
-        "change_pct": -0.386752,
-        "market_cap": 2853753847808
+        "price": 271.85,
+        "change_pct": 2.47276,
+        "market_cap": 2924320391168
       },
       "institutional": {
         "ownership_pct": "73.75%",
-        "top_holders": [
+        "activity": [
           {
             "holder": "Blackrock Inc.",
             "shares": "735564992",
-            "value": "$195.1B (@ $265.29)",
+            "value": "$200.0B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -371,7 +341,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "631176205",
-            "value": "$167.4B (@ $265.29)",
+            "value": "$171.6B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -379,7 +349,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "390450321",
-            "value": "$103.6B (@ $265.29)",
+            "value": "$106.1B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -387,7 +357,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "358698691",
-            "value": "$95.2B (@ $265.29)",
+            "value": "$97.5B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -395,7 +365,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "233228057",
-            "value": "$61.9B (@ $265.29)",
+            "value": "$63.4B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -403,7 +373,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "173925856",
-            "value": "$46.1B (@ $265.29)",
+            "value": "$47.3B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -411,7 +381,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "168937577",
-            "value": "$44.8B (@ $265.29)",
+            "value": "$45.9B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -419,7 +389,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "127012849",
-            "value": "$33.7B (@ $265.29)",
+            "value": "$34.5B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -427,7 +397,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "122998950",
-            "value": "$32.6B (@ $265.29)",
+            "value": "$33.4B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -435,7 +405,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "118434267",
-            "value": "$31.4B (@ $265.29)",
+            "value": "$32.2B (@ $271.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -453,9 +423,9 @@
     },
     "META": {
       "price": {
-        "price": 612.34,
-        "change_pct": 0.340841,
-        "market_cap": 1554378129408
+        "price": 635.255,
+        "change_pct": 3.7422,
+        "market_cap": 1612546048000
       },
       "institutional": {
         "ownership_pct": "85.69%",
@@ -463,8 +433,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "168843283",
-            "value": "$103.4B (@ $612.34)",
-            "price": 612.34,
+            "value": "$107.3B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -472,8 +441,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "142138157",
-            "value": "$87.0B (@ $612.34)",
-            "price": 612.34,
+            "value": "$90.3B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -481,8 +449,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "116614753",
-            "value": "$71.4B (@ $612.34)",
-            "price": 612.34,
+            "value": "$74.1B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -490,8 +457,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "88523840",
-            "value": "$54.2B (@ $612.34)",
-            "price": 612.34,
+            "value": "$56.2B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -499,8 +465,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "54165192",
-            "value": "$33.2B (@ $612.34)",
-            "price": 612.34,
+            "value": "$34.4B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -508,8 +473,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "50180811",
-            "value": "$30.7B (@ $612.34)",
-            "price": 612.34,
+            "value": "$31.9B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -517,8 +481,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "41055422",
-            "value": "$25.1B (@ $612.34)",
-            "price": 612.34,
+            "value": "$26.1B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -526,8 +489,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "38078962",
-            "value": "$23.3B (@ $612.34)",
-            "price": 612.34,
+            "value": "$24.2B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -535,8 +497,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "37856635",
-            "value": "$23.2B (@ $612.34)",
-            "price": 612.34,
+            "value": "$24.0B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -544,8 +505,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "32985340",
-            "value": "$20.2B (@ $612.34)",
-            "price": 612.34,
+            "value": "$21.0B (@ $635.26)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -563,9 +523,9 @@
     },
     "TSLA": {
       "price": {
-        "price": 433.59,
-        "change_pct": 1.7793,
-        "market_cap": 1628444295168
+        "price": 440.36,
+        "change_pct": 1.56138,
+        "market_cap": 1653870428160
       },
       "institutional": {
         "ownership_pct": "49.82%",
@@ -573,8 +533,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "208095009",
-            "value": "$90.2B (@ $433.59)",
-            "price": 433.59,
+            "value": "$91.6B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -582,8 +541,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "182850783",
-            "value": "$79.3B (@ $433.59)",
-            "price": 433.59,
+            "value": "$80.5B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -591,8 +549,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "114695458",
-            "value": "$49.7B (@ $433.59)",
-            "price": 433.59,
+            "value": "$50.5B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -600,8 +557,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "68003110",
-            "value": "$29.5B (@ $433.59)",
-            "price": 433.59,
+            "value": "$29.9B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -609,8 +565,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "49252925",
-            "value": "$21.4B (@ $433.59)",
-            "price": 433.59,
+            "value": "$21.7B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -618,8 +573,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "46075161",
-            "value": "$20.0B (@ $433.59)",
-            "price": 433.59,
+            "value": "$20.3B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -627,8 +581,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "42904073",
-            "value": "$18.6B (@ $433.59)",
-            "price": 433.59,
+            "value": "$18.9B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -636,8 +589,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "39177400",
-            "value": "$17.0B (@ $433.59)",
-            "price": 433.59,
+            "value": "$17.3B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -645,8 +597,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "36027976",
-            "value": "$15.6B (@ $433.59)",
-            "price": 433.59,
+            "value": "$15.9B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -654,8 +605,7 @@
           {
             "holder": "Goldman Sachs Group Inc",
             "shares": "29398294",
-            "value": "$12.7B (@ $433.59)",
-            "price": 433.59,
+            "value": "$12.9B (@ $440.36)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -673,9 +623,9 @@
     },
     "BRK-B": {
       "price": {
-        "price": 483.62,
-        "change_pct": -0.56746,
-        "market_cap": 1043097583616
+        "price": 479.92,
+        "change_pct": -0.76506,
+        "market_cap": 1035117264896
       },
       "institutional": {
         "ownership_pct": null,
@@ -692,9 +642,9 @@
     },
     "JPM": {
       "price": {
-        "price": 306.74,
-        "change_pct": 0.117496,
-        "market_cap": 821913255936
+        "price": 299.28,
+        "change_pct": -2.43202,
+        "market_cap": 801924120576
       },
       "institutional": {
         "ownership_pct": "84.54%",
@@ -702,8 +652,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "208220293",
-            "value": "$63.9B (@ $306.74)",
-            "price": 306.74,
+            "value": "$62.3B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -711,8 +660,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "165278733",
-            "value": "$50.7B (@ $306.74)",
-            "price": 306.74,
+            "value": "$49.5B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -720,8 +668,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "124276661",
-            "value": "$38.1B (@ $306.74)",
-            "price": 306.74,
+            "value": "$37.2B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -729,8 +676,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "68544442",
-            "value": "$21.0B (@ $306.74)",
-            "price": 306.74,
+            "value": "$20.5B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -738,8 +684,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "65580826",
-            "value": "$20.1B (@ $306.74)",
-            "price": 306.74,
+            "value": "$19.6B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -747,8 +692,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "65660460",
-            "value": "$20.1B (@ $306.74)",
-            "price": 306.74,
+            "value": "$19.7B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -756,8 +700,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "62550814",
-            "value": "$19.2B (@ $306.74)",
-            "price": 306.74,
+            "value": "$18.7B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -765,8 +708,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "31221042",
-            "value": "$9.6B (@ $306.74)",
-            "price": 306.74,
+            "value": "$9.3B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -774,8 +716,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "31433969",
-            "value": "$9.6B (@ $306.74)",
-            "price": 306.74,
+            "value": "$9.4B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -783,8 +724,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "27487323",
-            "value": "$8.4B (@ $306.74)",
-            "price": 306.74,
+            "value": "$8.2B (@ $299.28)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -802,9 +742,9 @@
     },
     "V": {
       "price": {
-        "price": 326.48,
-        "change_pct": -0.729748,
-        "market_cap": 620881313792
+        "price": 327.61,
+        "change_pct": 0.346108,
+        "market_cap": 623030239232
       },
       "institutional": {
         "ownership_pct": "99.10%",
@@ -812,8 +752,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "136190947",
-            "value": "$44.5B (@ $326.48)",
-            "price": 326.48,
+            "value": "$44.6B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -821,8 +760,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "107005168",
-            "value": "$34.9B (@ $326.48)",
-            "price": 326.48,
+            "value": "$35.1B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -830,8 +768,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "82306015",
-            "value": "$26.9B (@ $326.48)",
-            "price": 326.48,
+            "value": "$27.0B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -839,8 +776,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "45979950",
-            "value": "$15.0B (@ $326.48)",
-            "price": 326.48,
+            "value": "$15.1B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -848,8 +784,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "44908229",
-            "value": "$14.7B (@ $326.48)",
-            "price": 326.48,
+            "value": "$14.7B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -857,8 +792,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "44883639",
-            "value": "$14.7B (@ $326.48)",
-            "price": 326.48,
+            "value": "$14.7B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -866,8 +800,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "41075869",
-            "value": "$13.4B (@ $326.48)",
-            "price": 326.48,
+            "value": "$13.5B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -875,8 +808,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "37604815",
-            "value": "$12.3B (@ $326.48)",
-            "price": 326.48,
+            "value": "$12.3B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -884,8 +816,7 @@
           {
             "holder": "TCI Fund Management Ltd",
             "shares": "30468133",
-            "value": "$9.9B (@ $326.48)",
-            "price": 326.48,
+            "value": "$10.0B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -893,8 +824,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "25178201",
-            "value": "$8.2B (@ $326.48)",
-            "price": 326.48,
+            "value": "$8.2B (@ $327.61)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -912,9 +842,9 @@
     },
     "UNH": {
       "price": {
-        "price": 376.86,
-        "change_pct": -2.98865,
-        "market_cap": 342243278848
+        "price": 384.01,
+        "change_pct": 1.89726,
+        "market_cap": 348736520192
       },
       "institutional": {
         "ownership_pct": "94.31%",
@@ -922,8 +852,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "73467531",
-            "value": "$27.7B (@ $376.86)",
-            "price": 376.86,
+            "value": "$28.2B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -931,8 +860,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "58870777",
-            "value": "$22.2B (@ $376.86)",
-            "price": 376.86,
+            "value": "$22.6B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -940,8 +868,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "45332186",
-            "value": "$17.1B (@ $376.86)",
-            "price": 376.86,
+            "value": "$17.4B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -949,8 +876,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "27783415",
-            "value": "$10.5B (@ $376.86)",
-            "price": 376.86,
+            "value": "$10.7B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -958,8 +884,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "24036504",
-            "value": "$9.1B (@ $376.86)",
-            "price": 376.86,
+            "value": "$9.2B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -967,8 +892,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "22768695",
-            "value": "$8.6B (@ $376.86)",
-            "price": 376.86,
+            "value": "$8.7B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -976,8 +900,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "20873946",
-            "value": "$7.9B (@ $376.86)",
-            "price": 376.86,
+            "value": "$8.0B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -985,8 +908,7 @@
           {
             "holder": "Charles Schwab Investment Management, Inc.",
             "shares": "20817755",
-            "value": "$7.8B (@ $376.86)",
-            "price": 376.86,
+            "value": "$8.0B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -994,8 +916,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "19102541",
-            "value": "$7.2B (@ $376.86)",
-            "price": 376.86,
+            "value": "$7.3B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1003,8 +924,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "17112218",
-            "value": "$6.4B (@ $376.86)",
-            "price": 376.86,
+            "value": "$6.6B (@ $384.01)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1022,9 +942,9 @@
     },
     "XOM": {
       "price": {
-        "price": 149.81,
-        "change_pct": -3.29848,
-        "market_cap": 620954517504
+        "price": 147.9,
+        "change_pct": -1.27495,
+        "market_cap": 613037637632
       },
       "institutional": {
         "ownership_pct": "78.22%",
@@ -1032,8 +952,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "322741137",
-            "value": "$48.3B (@ $149.81)",
-            "price": 149.81,
+            "value": "$47.7B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1041,8 +960,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "271198613",
-            "value": "$40.6B (@ $149.81)",
-            "price": 149.81,
+            "value": "$40.1B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1050,8 +968,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "213904380",
-            "value": "$32.0B (@ $149.81)",
-            "price": 149.81,
+            "value": "$31.6B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1059,8 +976,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "140010460",
-            "value": "$21.0B (@ $149.81)",
-            "price": 149.81,
+            "value": "$20.7B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1068,8 +984,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "115629047",
-            "value": "$17.3B (@ $149.81)",
-            "price": 149.81,
+            "value": "$17.1B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1077,8 +992,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "95478649",
-            "value": "$14.3B (@ $149.81)",
-            "price": 149.81,
+            "value": "$14.1B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1086,8 +1000,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "85599509",
-            "value": "$12.8B (@ $149.81)",
-            "price": 149.81,
+            "value": "$12.7B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1095,8 +1008,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "71718998",
-            "value": "$10.7B (@ $149.81)",
-            "price": 149.81,
+            "value": "$10.6B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1104,8 +1016,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "68483813",
-            "value": "$10.3B (@ $149.81)",
-            "price": 149.81,
+            "value": "$10.1B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1113,8 +1024,7 @@
           {
             "holder": "Bank Of New York Mellon Corporation",
             "shares": "44289134",
-            "value": "$6.6B (@ $149.81)",
-            "price": 149.81,
+            "value": "$6.6B (@ $147.9)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1122,9 +1032,9 @@
         ]
       },
       "insider": {
-        "total_filings": 40,
-        "total_trades": 10,
-        "buys": 4,
+        "total_filings": 41,
+        "total_trades": 9,
+        "buys": 3,
         "sells": 6,
         "buy_value": 0,
         "sell_value": 278243836
@@ -1132,9 +1042,9 @@
     },
     "WMT": {
       "price": {
-        "price": 118.57,
-        "change_pct": -1.41348,
-        "market_cap": 945120346112
+        "price": 118.54,
+        "change_pct": -0.0253005,
+        "market_cap": 944881205248
       },
       "institutional": {
         "ownership_pct": "41.46%",
@@ -1142,8 +1052,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "353085648",
-            "value": "$41.9B (@ $118.57)",
-            "price": 118.57,
+            "value": "$41.9B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1151,8 +1060,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "284852775",
-            "value": "$33.8B (@ $118.57)",
-            "price": 118.57,
+            "value": "$33.8B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1160,8 +1068,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "185928865",
-            "value": "$22.0B (@ $118.57)",
-            "price": 118.57,
+            "value": "$22.0B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1169,8 +1076,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "122469785",
-            "value": "$14.5B (@ $118.57)",
-            "price": 118.57,
+            "value": "$14.5B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1178,8 +1084,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "105856140",
-            "value": "$12.6B (@ $118.57)",
-            "price": 118.57,
+            "value": "$12.5B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1187,8 +1092,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "93696778",
-            "value": "$11.1B (@ $118.57)",
-            "price": 118.57,
+            "value": "$11.1B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1196,8 +1100,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "85906471",
-            "value": "$10.2B (@ $118.57)",
-            "price": 118.57,
+            "value": "$10.2B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1205,8 +1108,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "65844247",
-            "value": "$7.8B (@ $118.57)",
-            "price": 118.57,
+            "value": "$7.8B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1214,8 +1116,7 @@
           {
             "holder": "Invesco Ltd.",
             "shares": "43531267",
-            "value": "$5.2B (@ $118.57)",
-            "price": 118.57,
+            "value": "$5.2B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1223,8 +1124,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "41765304",
-            "value": "$5.0B (@ $118.57)",
-            "price": 118.57,
+            "value": "$5.0B (@ $118.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1242,9 +1142,9 @@
     },
     "JNJ": {
       "price": {
-        "price": 230.18,
-        "change_pct": -1.2103,
-        "market_cap": 554093182976
+        "price": 231.29,
+        "change_pct": 0.482232,
+        "market_cap": 556765151232
       },
       "institutional": {
         "ownership_pct": "85.33%",
@@ -1252,8 +1152,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "213385546",
-            "value": "$49.1B (@ $230.18)",
-            "price": 230.18,
+            "value": "$49.4B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1261,8 +1160,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "156605370",
-            "value": "$36.0B (@ $230.18)",
-            "price": 230.18,
+            "value": "$36.2B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1270,8 +1168,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "133476288",
-            "value": "$30.7B (@ $230.18)",
-            "price": 230.18,
+            "value": "$30.9B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1279,8 +1176,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "63514436",
-            "value": "$14.6B (@ $230.18)",
-            "price": 230.18,
+            "value": "$14.7B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1288,8 +1184,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "63096344",
-            "value": "$14.5B (@ $230.18)",
-            "price": 230.18,
+            "value": "$14.6B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1297,8 +1192,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "59164862",
-            "value": "$13.6B (@ $230.18)",
-            "price": 230.18,
+            "value": "$13.7B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1306,8 +1200,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "44721167",
-            "value": "$10.3B (@ $230.18)",
-            "price": 230.18,
+            "value": "$10.3B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1315,8 +1208,7 @@
           {
             "holder": "State Farm Mutual Automobile Insurance Co",
             "shares": "31590952",
-            "value": "$7.3B (@ $230.18)",
-            "price": 230.18,
+            "value": "$7.3B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1324,8 +1216,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "29319669",
-            "value": "$6.7B (@ $230.18)",
-            "price": 230.18,
+            "value": "$6.8B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1333,8 +1224,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "25516697",
-            "value": "$5.9B (@ $230.18)",
-            "price": 230.18,
+            "value": "$5.9B (@ $231.29)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1352,9 +1242,9 @@
     },
     "MA": {
       "price": {
-        "price": 493.01,
-        "change_pct": -1.10924,
-        "market_cap": 435615694848
+        "price": 495.04,
+        "change_pct": 0.411756,
+        "market_cap": 437409382400
       },
       "institutional": {
         "ownership_pct": "98.67%",
@@ -1362,8 +1252,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "67011988",
-            "value": "$33.0B (@ $493.01)",
-            "price": 493.01,
+            "value": "$33.2B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1371,8 +1260,7 @@
           {
             "holder": "Mastercard Foundation Asset Management Corp",
             "shares": "65234702",
-            "value": "$32.2B (@ $493.01)",
-            "price": 493.01,
+            "value": "$32.3B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1380,8 +1268,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "52337454",
-            "value": "$25.8B (@ $493.01)",
-            "price": 493.01,
+            "value": "$25.9B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1389,8 +1276,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "36478022",
-            "value": "$18.0B (@ $493.01)",
-            "price": 493.01,
+            "value": "$18.1B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1398,8 +1284,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "32656501",
-            "value": "$16.1B (@ $493.01)",
-            "price": 493.01,
+            "value": "$16.2B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1407,8 +1292,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "24263911",
-            "value": "$12.0B (@ $493.01)",
-            "price": 493.01,
+            "value": "$12.0B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1416,8 +1300,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "21071444",
-            "value": "$10.4B (@ $493.01)",
-            "price": 493.01,
+            "value": "$10.4B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1425,8 +1308,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "19434544",
-            "value": "$9.6B (@ $493.01)",
-            "price": 493.01,
+            "value": "$9.6B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1434,8 +1316,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "18574710",
-            "value": "$9.2B (@ $493.01)",
-            "price": 493.01,
+            "value": "$9.2B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1443,8 +1324,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "15162577",
-            "value": "$7.5B (@ $493.01)",
-            "price": 493.01,
+            "value": "$7.5B (@ $495.04)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1462,9 +1342,9 @@
     },
     "PG": {
       "price": {
-        "price": 142.96,
-        "change_pct": -1.02464,
-        "market_cap": 332896534528
+        "price": 147.49,
+        "change_pct": 3.16872,
+        "market_cap": 343445078016
       },
       "institutional": {
         "ownership_pct": "80.56%",
@@ -1472,8 +1352,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "187029747",
-            "value": "$26.7B (@ $142.96)",
-            "price": 142.96,
+            "value": "$27.6B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1481,8 +1360,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "151049902",
-            "value": "$21.6B (@ $142.96)",
-            "price": 142.96,
+            "value": "$22.3B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1490,8 +1368,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "101250847",
-            "value": "$14.5B (@ $142.96)",
-            "price": 142.96,
+            "value": "$14.9B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1499,8 +1376,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "64403372",
-            "value": "$9.2B (@ $142.96)",
-            "price": 142.96,
+            "value": "$9.5B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1508,8 +1384,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "62847265",
-            "value": "$9.0B (@ $142.96)",
-            "price": 142.96,
+            "value": "$9.3B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1517,8 +1392,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "49216260",
-            "value": "$7.0B (@ $142.96)",
-            "price": 142.96,
+            "value": "$7.3B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1526,8 +1400,7 @@
           {
             "holder": "Charles Schwab Investment Management, Inc.",
             "shares": "41360143",
-            "value": "$5.9B (@ $142.96)",
-            "price": 142.96,
+            "value": "$6.1B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1535,8 +1408,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "33202858",
-            "value": "$4.7B (@ $142.96)",
-            "price": 142.96,
+            "value": "$4.9B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1544,8 +1416,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "32092077",
-            "value": "$4.6B (@ $142.96)",
-            "price": 142.96,
+            "value": "$4.7B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1553,8 +1424,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "30709456",
-            "value": "$4.4B (@ $142.96)",
-            "price": 142.96,
+            "value": "$4.5B (@ $147.49)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1572,9 +1442,9 @@
     },
     "HD": {
       "price": {
-        "price": 310.54,
-        "change_pct": -0.808126,
-        "market_cap": 309306425344
+        "price": 317.85,
+        "change_pct": 2.35396,
+        "market_cap": 316933537792
       },
       "institutional": {
         "ownership_pct": "84.65%",
@@ -1582,8 +1452,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "78661037",
-            "value": "$24.4B (@ $310.54)",
-            "price": 310.54,
+            "value": "$25.0B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1591,8 +1460,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "64687996",
-            "value": "$20.1B (@ $310.54)",
-            "price": 310.54,
+            "value": "$20.6B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1600,8 +1468,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "46675858",
-            "value": "$14.5B (@ $310.54)",
-            "price": 310.54,
+            "value": "$14.8B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1609,8 +1476,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "25277177",
-            "value": "$7.8B (@ $310.54)",
-            "price": 310.54,
+            "value": "$8.0B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1618,8 +1484,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "24937966",
-            "value": "$7.7B (@ $310.54)",
-            "price": 310.54,
+            "value": "$7.9B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1627,8 +1492,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "22369334",
-            "value": "$6.9B (@ $310.54)",
-            "price": 310.54,
+            "value": "$7.1B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1636,8 +1500,7 @@
           {
             "holder": "Charles Schwab Investment Management, Inc.",
             "shares": "17085966",
-            "value": "$5.3B (@ $310.54)",
-            "price": 310.54,
+            "value": "$5.4B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1645,8 +1508,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "16314357",
-            "value": "$5.1B (@ $310.54)",
-            "price": 310.54,
+            "value": "$5.2B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1654,8 +1516,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "16143812",
-            "value": "$5.0B (@ $310.54)",
-            "price": 310.54,
+            "value": "$5.1B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1663,8 +1524,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "14986308",
-            "value": "$4.7B (@ $310.54)",
-            "price": 310.54,
+            "value": "$4.8B (@ $317.85)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1682,9 +1542,9 @@
     },
     "BAC": {
       "price": {
-        "price": 52.2,
-        "change_pct": 0.772204,
-        "market_cap": 370442043392
+        "price": 51.1,
+        "change_pct": -2.10728,
+        "market_cap": 362635788288
       },
       "institutional": {
         "ownership_pct": "85.99%",
@@ -1692,8 +1552,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "539258516",
-            "value": "$28.1B (@ $52.2)",
-            "price": 52.2,
+            "value": "$27.6B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1701,8 +1560,7 @@
           {
             "holder": "Berkshire Hathaway, Inc",
             "shares": "513624165",
-            "value": "$26.8B (@ $52.2)",
-            "price": 52.2,
+            "value": "$26.2B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1710,8 +1568,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "409704665",
-            "value": "$21.4B (@ $52.2)",
-            "price": 52.2,
+            "value": "$20.9B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1719,8 +1576,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "294909309",
-            "value": "$15.4B (@ $52.2)",
-            "price": 52.2,
+            "value": "$15.1B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1728,8 +1584,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "198484617",
-            "value": "$10.4B (@ $52.2)",
-            "price": 52.2,
+            "value": "$10.1B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1737,8 +1592,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "163431813",
-            "value": "$8.5B (@ $52.2)",
-            "price": 52.2,
+            "value": "$8.4B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1746,8 +1600,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "157925189",
-            "value": "$8.2B (@ $52.2)",
-            "price": 52.2,
+            "value": "$8.1B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1755,8 +1608,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "144289396",
-            "value": "$7.5B (@ $52.2)",
-            "price": 52.2,
+            "value": "$7.4B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1764,8 +1616,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "132271796",
-            "value": "$6.9B (@ $52.2)",
-            "price": 52.2,
+            "value": "$6.8B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1773,8 +1624,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "108670801",
-            "value": "$5.7B (@ $52.2)",
-            "price": 52.2,
+            "value": "$5.6B (@ $51.1)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1782,7 +1632,7 @@
         ]
       },
       "insider": {
-        "total_filings": 146,
+        "total_filings": 145,
         "total_trades": 18,
         "buys": 8,
         "sells": 10,
@@ -1792,9 +1642,9 @@
     },
     "DIS": {
       "price": {
-        "price": 103.28,
-        "change_pct": 0.271843,
-        "market_cap": 179346898944
+        "price": 104.18,
+        "change_pct": 0.871419,
+        "market_cap": 180909768704
       },
       "institutional": {
         "ownership_pct": "85.35%",
@@ -1802,8 +1652,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "135454797",
-            "value": "$14.0B (@ $103.28)",
-            "price": 103.28,
+            "value": "$14.1B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1811,8 +1660,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "115115672",
-            "value": "$11.9B (@ $103.28)",
-            "price": 103.28,
+            "value": "$12.0B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1820,8 +1668,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "83702903",
-            "value": "$8.6B (@ $103.28)",
-            "price": 103.28,
+            "value": "$8.7B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1829,8 +1676,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "76893065",
-            "value": "$7.9B (@ $103.28)",
-            "price": 103.28,
+            "value": "$8.0B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1838,8 +1684,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "41587677",
-            "value": "$4.3B (@ $103.28)",
-            "price": 103.28,
+            "value": "$4.3B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1847,8 +1692,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "35394670",
-            "value": "$3.7B (@ $103.28)",
-            "price": 103.28,
+            "value": "$3.7B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1856,8 +1700,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "33798796",
-            "value": "$3.5B (@ $103.28)",
-            "price": 103.28,
+            "value": "$3.5B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1865,8 +1708,7 @@
           {
             "holder": "Wellington Management Group, LLP",
             "shares": "27890688",
-            "value": "$2.9B (@ $103.28)",
-            "price": 103.28,
+            "value": "$2.9B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1874,8 +1716,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "21953360",
-            "value": "$2.3B (@ $103.28)",
-            "price": 103.28,
+            "value": "$2.3B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1883,8 +1724,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "19952805",
-            "value": "$2.1B (@ $103.28)",
-            "price": 103.28,
+            "value": "$2.1B (@ $104.18)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1902,9 +1742,9 @@
     },
     "CRM": {
       "price": {
-        "price": 179.08,
-        "change_pct": -0.549789,
-        "market_cap": 146497060864
+        "price": 177.51,
+        "change_pct": -0.876707,
+        "market_cap": 145212719104
       },
       "institutional": {
         "ownership_pct": "102.87%",
@@ -1912,8 +1752,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "79691184",
-            "value": "$14.3B (@ $179.08)",
-            "price": 179.08,
+            "value": "$14.1B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1921,8 +1760,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "59333776",
-            "value": "$10.6B (@ $179.08)",
-            "price": 179.08,
+            "value": "$10.5B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1930,8 +1768,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "48953388",
-            "value": "$8.8B (@ $179.08)",
-            "price": 179.08,
+            "value": "$8.7B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1939,8 +1776,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "31675603",
-            "value": "$5.7B (@ $179.08)",
-            "price": 179.08,
+            "value": "$5.6B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1948,8 +1784,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "22225157",
-            "value": "$4.0B (@ $179.08)",
-            "price": 179.08,
+            "value": "$3.9B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1957,8 +1792,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "19419407",
-            "value": "$3.5B (@ $179.08)",
-            "price": 179.08,
+            "value": "$3.4B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1966,8 +1800,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "16711525",
-            "value": "$3.0B (@ $179.08)",
-            "price": 179.08,
+            "value": "$3.0B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1975,8 +1808,7 @@
           {
             "holder": "Harris Associates L.P.",
             "shares": "14917993",
-            "value": "$2.7B (@ $179.08)",
-            "price": 179.08,
+            "value": "$2.6B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1984,8 +1816,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "13705564",
-            "value": "$2.5B (@ $179.08)",
-            "price": 179.08,
+            "value": "$2.4B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -1993,8 +1824,7 @@
           {
             "holder": "Arrowstreet Capital, Limited Partnership",
             "shares": "12659217",
-            "value": "$2.3B (@ $179.08)",
-            "price": 179.08,
+            "value": "$2.2B (@ $177.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2002,7 +1832,7 @@
         ]
       },
       "insider": {
-        "total_filings": 190,
+        "total_filings": 189,
         "total_trades": 11,
         "buys": 10,
         "sells": 1,
@@ -2012,9 +1842,9 @@
     },
     "CRWV": {
       "price": {
-        "price": 105.89,
-        "change_pct": 0.379184,
-        "market_cap": 57770446848
+        "price": 104.27,
+        "change_pct": -1.52989,
+        "market_cap": 56886620160
       },
       "institutional": {
         "ownership_pct": "67.44%",
@@ -2022,8 +1852,7 @@
           {
             "holder": "Magnetar Financial LLC",
             "shares": "68566394",
-            "value": "$7.3B (@ $105.89)",
-            "price": 105.89,
+            "value": "$7.1B (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2031,8 +1860,7 @@
           {
             "holder": "Nvidia Corp                          ",
             "shares": "47213353",
-            "value": "$5.0B (@ $105.89)",
-            "price": 105.89,
+            "value": "$4.9B (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2040,8 +1868,7 @@
           {
             "holder": "Goldman Sachs Group Inc",
             "shares": "17877647",
-            "value": "$1.9B (@ $105.89)",
-            "price": 105.89,
+            "value": "$1.9B (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2049,8 +1876,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "12710358",
-            "value": "$1.3B (@ $105.89)",
-            "price": 105.89,
+            "value": "$1.3B (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2058,8 +1884,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "12437395",
-            "value": "$1.3B (@ $105.89)",
-            "price": 105.89,
+            "value": "$1.3B (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2067,8 +1892,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "9378232",
-            "value": "$993.1M (@ $105.89)",
-            "price": 105.89,
+            "value": "$977.9M (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2076,8 +1900,7 @@
           {
             "holder": "Jane Street Group, LLC",
             "shares": "8856691",
-            "value": "$937.8M (@ $105.89)",
-            "price": 105.89,
+            "value": "$923.5M (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2085,8 +1908,7 @@
           {
             "holder": "Value Aligned Research Advisors, LLC                          ",
             "shares": "8280763",
-            "value": "$876.8M (@ $105.89)",
-            "price": 105.89,
+            "value": "$863.4M (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2094,8 +1916,7 @@
           {
             "holder": "Situational Awareness Partners LP",
             "shares": "7177919",
-            "value": "$760.1M (@ $105.89)",
-            "price": 105.89,
+            "value": "$748.4M (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2103,8 +1924,7 @@
           {
             "holder": "Situational Awareness LP                          ",
             "shares": "7177919",
-            "value": "$760.1M (@ $105.89)",
-            "price": 105.89,
+            "value": "$748.4M (@ $104.27)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2112,7 +1932,7 @@
         ]
       },
       "insider": {
-        "total_filings": 331,
+        "total_filings": 330,
         "total_trades": 50,
         "buys": 13,
         "sells": 53,
@@ -2122,9 +1942,9 @@
     },
     "PLTR": {
       "price": {
-        "price": 136.6,
-        "change_pct": -0.204558,
-        "market_cap": 327472840704
+        "price": 132.51,
+        "change_pct": -2.99415,
+        "market_cap": 317667803136
       },
       "institutional": {
         "ownership_pct": "67.97%",
@@ -2132,8 +1952,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "188990971",
-            "value": "$25.8B (@ $136.6)",
-            "price": 136.6,
+            "value": "$25.0B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2141,8 +1960,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "144837529",
-            "value": "$19.8B (@ $136.6)",
-            "price": 136.6,
+            "value": "$19.2B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2150,8 +1968,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "101626594",
-            "value": "$13.9B (@ $136.6)",
-            "price": 136.6,
+            "value": "$13.5B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2159,8 +1976,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "55871332",
-            "value": "$7.6B (@ $136.6)",
-            "price": 136.6,
+            "value": "$7.4B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2168,8 +1984,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "50022230",
-            "value": "$6.8B (@ $136.6)",
-            "price": 136.6,
+            "value": "$6.6B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2177,8 +1992,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "32202689",
-            "value": "$4.4B (@ $136.6)",
-            "price": 136.6,
+            "value": "$4.3B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2186,8 +2000,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "21553535",
-            "value": "$2.9B (@ $136.6)",
-            "price": 136.6,
+            "value": "$2.9B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2195,8 +2008,7 @@
           {
             "holder": "Invesco Ltd.",
             "shares": "20882408",
-            "value": "$2.9B (@ $136.6)",
-            "price": 136.6,
+            "value": "$2.8B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2204,8 +2016,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "20901773",
-            "value": "$2.9B (@ $136.6)",
-            "price": 136.6,
+            "value": "$2.8B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2213,8 +2024,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "19001985",
-            "value": "$2.6B (@ $136.6)",
-            "price": 136.6,
+            "value": "$2.5B (@ $132.51)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2232,9 +2042,9 @@
     },
     "RDDT": {
       "price": {
-        "price": 144.64,
-        "change_pct": 2.09642,
-        "market_cap": 27844507648
+        "price": 154.19,
+        "change_pct": 6.6026,
+        "market_cap": 29682968576
       },
       "institutional": {
         "ownership_pct": "95.00%",
@@ -2242,8 +2052,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "7662524",
-            "value": "$1.1B (@ $144.64)",
-            "price": 144.64,
+            "value": "$1.2B (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2251,8 +2060,7 @@
           {
             "holder": "BAILLIE GIFFORD & CO",
             "shares": "7309109",
-            "value": "$1.1B (@ $144.64)",
-            "price": 144.64,
+            "value": "$1.1B (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2260,8 +2068,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "6733225",
-            "value": "$973.9M (@ $144.64)",
-            "price": 144.64,
+            "value": "$1.0B (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2269,8 +2076,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "5897244",
-            "value": "$853.0M (@ $144.64)",
-            "price": 144.64,
+            "value": "$909.3M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2278,8 +2084,7 @@
           {
             "holder": "Alliancebernstein L.P.",
             "shares": "4871993",
-            "value": "$704.7M (@ $144.64)",
-            "price": 144.64,
+            "value": "$751.2M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2287,8 +2092,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "4422613",
-            "value": "$639.7M (@ $144.64)",
-            "price": 144.64,
+            "value": "$681.9M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2296,8 +2100,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "4398624",
-            "value": "$636.2M (@ $144.64)",
-            "price": 144.64,
+            "value": "$678.2M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2305,8 +2108,7 @@
           {
             "holder": "Goldman Sachs Group Inc",
             "shares": "3283106",
-            "value": "$474.9M (@ $144.64)",
-            "price": 144.64,
+            "value": "$506.2M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2314,8 +2116,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "2916460",
-            "value": "$421.8M (@ $144.64)",
-            "price": 144.64,
+            "value": "$449.7M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2323,8 +2124,7 @@
           {
             "holder": "Coatue Management LLC",
             "shares": "2789891",
-            "value": "$403.5M (@ $144.64)",
-            "price": 144.64,
+            "value": "$430.2M (@ $154.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2342,9 +2142,9 @@
     },
     "TSM": {
       "price": {
-        "price": 412.32,
-        "change_pct": 1.92822,
-        "market_cap": 2138486996992
+        "price": 422.73,
+        "change_pct": 2.52474,
+        "market_cap": 2192478175232
       },
       "institutional": {
         "ownership_pct": "3.01%",
@@ -2352,8 +2152,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "60393190",
-            "value": "$24.9B (@ $412.32)",
-            "price": 412.32,
+            "value": "$25.5B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2361,8 +2160,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "32886937",
-            "value": "$13.6B (@ $412.32)",
-            "price": 412.32,
+            "value": "$13.9B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2370,8 +2168,7 @@
           {
             "holder": "Sanders Capital, LLC",
             "shares": "28060092",
-            "value": "$11.6B (@ $412.32)",
-            "price": 412.32,
+            "value": "$11.9B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2379,8 +2176,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "23984642",
-            "value": "$9.9B (@ $412.32)",
-            "price": 412.32,
+            "value": "$10.1B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2388,8 +2184,7 @@
           {
             "holder": "Van Eck Associates Corporation",
             "shares": "19262004",
-            "value": "$7.9B (@ $412.32)",
-            "price": 412.32,
+            "value": "$8.1B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2397,8 +2192,7 @@
           {
             "holder": "Fisher Asset Management, LLC",
             "shares": "18617691",
-            "value": "$7.7B (@ $412.32)",
-            "price": 412.32,
+            "value": "$7.9B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2406,8 +2200,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "18224186",
-            "value": "$7.5B (@ $412.32)",
-            "price": 412.32,
+            "value": "$7.7B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2415,8 +2208,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "14767680",
-            "value": "$6.1B (@ $412.32)",
-            "price": 412.32,
+            "value": "$6.2B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2424,8 +2216,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "14107771",
-            "value": "$5.8B (@ $412.32)",
-            "price": 412.32,
+            "value": "$6.0B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2433,8 +2224,7 @@
           {
             "holder": "Jennison Associates LLC",
             "shares": "12021825",
-            "value": "$5.0B (@ $412.32)",
-            "price": 412.32,
+            "value": "$5.1B (@ $422.73)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2452,9 +2242,9 @@
     },
     "AMD": {
       "price": {
-        "price": 503.89,
-        "change_pct": 7.78165,
-        "market_cap": 821643378688
+        "price": 495.54,
+        "change_pct": -1.65711,
+        "market_cap": 808027815936
       },
       "institutional": {
         "ownership_pct": "77.67%",
@@ -2462,8 +2252,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "145574284",
-            "value": "$73.4B (@ $503.89)",
-            "price": 503.89,
+            "value": "$72.1B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2471,8 +2260,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "105940266",
-            "value": "$53.4B (@ $503.89)",
-            "price": 503.89,
+            "value": "$52.5B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2480,8 +2268,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "74771220",
-            "value": "$37.7B (@ $503.89)",
-            "price": 503.89,
+            "value": "$37.1B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2489,8 +2276,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "39791086",
-            "value": "$20.1B (@ $503.89)",
-            "price": 503.89,
+            "value": "$19.7B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2498,8 +2284,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "37603675",
-            "value": "$18.9B (@ $503.89)",
-            "price": 503.89,
+            "value": "$18.6B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2507,8 +2292,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "28846470",
-            "value": "$14.5B (@ $503.89)",
-            "price": 503.89,
+            "value": "$14.3B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2516,8 +2300,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "24248547",
-            "value": "$12.2B (@ $503.89)",
-            "price": 503.89,
+            "value": "$12.0B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2525,8 +2308,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "23781608",
-            "value": "$12.0B (@ $503.89)",
-            "price": 503.89,
+            "value": "$11.8B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2534,8 +2316,7 @@
           {
             "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
             "shares": "19192764",
-            "value": "$9.7B (@ $503.89)",
-            "price": 503.89,
+            "value": "$9.5B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2543,8 +2324,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "16427217",
-            "value": "$8.3B (@ $503.89)",
-            "price": 503.89,
+            "value": "$8.1B (@ $495.54)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2562,9 +2342,9 @@
     },
     "INTC": {
       "price": {
-        "price": 123.52,
-        "change_pct": 3.07076,
-        "market_cap": 620811517952
+        "price": 121.77,
+        "change_pct": -1.41677,
+        "market_cap": 612015996928
       },
       "institutional": {
         "ownership_pct": "69.98%",
@@ -2572,8 +2352,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "447550132",
-            "value": "$55.3B (@ $123.52)",
-            "price": 123.52,
+            "value": "$54.5B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2581,8 +2360,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "282011285",
-            "value": "$34.8B (@ $123.52)",
-            "price": 123.52,
+            "value": "$34.3B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2590,8 +2368,7 @@
           {
             "holder": "Nvidia Corp                          ",
             "shares": "214776632",
-            "value": "$26.5B (@ $123.52)",
-            "price": 123.52,
+            "value": "$26.2B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2599,8 +2376,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "214321018",
-            "value": "$26.5B (@ $123.52)",
-            "price": 123.52,
+            "value": "$26.1B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2608,8 +2384,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "109534637",
-            "value": "$13.5B (@ $123.52)",
-            "price": 123.52,
+            "value": "$13.3B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2617,8 +2392,7 @@
           {
             "holder": "Softbank Group Corporation",
             "shares": "86956522",
-            "value": "$10.7B (@ $123.52)",
-            "price": 123.52,
+            "value": "$10.6B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2626,8 +2400,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "85427273",
-            "value": "$10.6B (@ $123.52)",
-            "price": 123.52,
+            "value": "$10.4B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2635,8 +2408,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "79877133",
-            "value": "$9.9B (@ $123.52)",
-            "price": 123.52,
+            "value": "$9.7B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2644,8 +2416,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "77301863",
-            "value": "$9.5B (@ $123.52)",
-            "price": 123.52,
+            "value": "$9.4B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2653,8 +2424,7 @@
           {
             "holder": "Primecap Management Company",
             "shares": "75761968",
-            "value": "$9.4B (@ $123.52)",
-            "price": 123.52,
+            "value": "$9.2B (@ $121.77)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2672,9 +2442,9 @@
     },
     "COIN": {
       "price": {
-        "price": 180.01,
-        "change_pct": -2.69204,
-        "market_cap": 47425572864
+        "price": 173.78,
+        "change_pct": -3.46092,
+        "market_cap": 45784211456
       },
       "institutional": {
         "ownership_pct": "78.69%",
@@ -2682,8 +2452,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "16745406",
-            "value": "$3.0B (@ $180.01)",
-            "price": 180.01,
+            "value": "$2.9B (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2691,8 +2460,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "14130021",
-            "value": "$2.5B (@ $180.01)",
-            "price": 180.01,
+            "value": "$2.5B (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2700,8 +2468,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "9488390",
-            "value": "$1.7B (@ $180.01)",
-            "price": 180.01,
+            "value": "$1.6B (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2709,8 +2476,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "9360220",
-            "value": "$1.7B (@ $180.01)",
-            "price": 180.01,
+            "value": "$1.6B (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2718,8 +2484,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "6130020",
-            "value": "$1.1B (@ $180.01)",
-            "price": 180.01,
+            "value": "$1.1B (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2727,8 +2492,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "3798533",
-            "value": "$683.8M (@ $180.01)",
-            "price": 180.01,
+            "value": "$660.1M (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2736,8 +2500,7 @@
           {
             "holder": "Paradigm Operations LP",
             "shares": "3589428",
-            "value": "$646.1M (@ $180.01)",
-            "price": 180.01,
+            "value": "$623.8M (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2745,8 +2508,7 @@
           {
             "holder": "Clear Street Group Inc.",
             "shares": "2554198",
-            "value": "$459.8M (@ $180.01)",
-            "price": 180.01,
+            "value": "$443.9M (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2754,8 +2516,7 @@
           {
             "holder": "UBS Group AG",
             "shares": "2515989",
-            "value": "$452.9M (@ $180.01)",
-            "price": 180.01,
+            "value": "$437.2M (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2763,8 +2524,7 @@
           {
             "holder": "Goldman Sachs Group Inc",
             "shares": "2509990",
-            "value": "$451.8M (@ $180.01)",
-            "price": 180.01,
+            "value": "$436.2M (@ $173.78)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2772,19 +2532,19 @@
         ]
       },
       "insider": {
-        "total_filings": 105,
-        "total_trades": 32,
+        "total_filings": 106,
+        "total_trades": 34,
         "buys": 16,
-        "sells": 17,
+        "sells": 19,
         "buy_value": 0,
-        "sell_value": 15505255
+        "sell_value": 16525716
       }
     },
     "SMCI": {
       "price": {
-        "price": 37.1,
-        "change_pct": 4.27205,
-        "market_cap": 22312626176
+        "price": 38.19,
+        "change_pct": 2.93801,
+        "market_cap": 22968172544
       },
       "institutional": {
         "ownership_pct": "68.87%",
@@ -2792,8 +2552,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "43360579",
-            "value": "$1.6B (@ $37.1)",
-            "price": 37.1,
+            "value": "$1.7B (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2801,8 +2560,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "32894995",
-            "value": "$1.2B (@ $37.1)",
-            "price": 37.1,
+            "value": "$1.3B (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2810,8 +2568,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "29569380",
-            "value": "$1.1B (@ $37.1)",
-            "price": 37.1,
+            "value": "$1.1B (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2819,8 +2576,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "22017501",
-            "value": "$816.8M (@ $37.1)",
-            "price": 37.1,
+            "value": "$840.8M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2828,8 +2584,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "14155928",
-            "value": "$525.2M (@ $37.1)",
-            "price": 37.1,
+            "value": "$540.6M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2837,8 +2592,7 @@
           {
             "holder": "UBS Group AG",
             "shares": "12073477",
-            "value": "$447.9M (@ $37.1)",
-            "price": 37.1,
+            "value": "$461.1M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2846,8 +2600,7 @@
           {
             "holder": "Invesco Ltd.",
             "shares": "11813138",
-            "value": "$438.3M (@ $37.1)",
-            "price": 37.1,
+            "value": "$451.1M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2855,8 +2608,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "7671682",
-            "value": "$284.6M (@ $37.1)",
-            "price": 37.1,
+            "value": "$293.0M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2864,8 +2616,7 @@
           {
             "holder": "Marshall Wace LLP",
             "shares": "7188017",
-            "value": "$266.7M (@ $37.1)",
-            "price": 37.1,
+            "value": "$274.5M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2873,8 +2624,7 @@
           {
             "holder": "Defiance Etfs, LLC",
             "shares": "6220438",
-            "value": "$230.8M (@ $37.1)",
-            "price": 37.1,
+            "value": "$237.6M (@ $38.19)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2892,9 +2642,9 @@
     },
     "NFLX": {
       "price": {
-        "price": 87.68,
-        "change_pct": -1.03837,
-        "market_cap": 369202823168
+        "price": 87.35,
+        "change_pct": -0.376371,
+        "market_cap": 367813263360
       },
       "institutional": {
         "ownership_pct": "90.05%",
@@ -2902,8 +2652,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "346247929",
-            "value": "$30.4B (@ $87.68)",
-            "price": 87.68,
+            "value": "$30.2B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2911,8 +2660,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "274400652",
-            "value": "$24.1B (@ $87.68)",
-            "price": 87.68,
+            "value": "$24.0B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2920,8 +2668,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "204650883",
-            "value": "$17.9B (@ $87.68)",
-            "price": 87.68,
+            "value": "$17.9B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2929,8 +2676,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "171654762",
-            "value": "$15.1B (@ $87.68)",
-            "price": 87.68,
+            "value": "$15.0B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2938,8 +2684,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "103528586",
-            "value": "$9.1B (@ $87.68)",
-            "price": 87.68,
+            "value": "$9.0B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2947,8 +2692,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "99103552",
-            "value": "$8.7B (@ $87.68)",
-            "price": 87.68,
+            "value": "$8.7B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2956,8 +2700,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "99031792",
-            "value": "$8.7B (@ $87.68)",
-            "price": 87.68,
+            "value": "$8.7B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2965,8 +2708,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "99018124",
-            "value": "$8.7B (@ $87.68)",
-            "price": 87.68,
+            "value": "$8.6B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2974,8 +2716,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "75398731",
-            "value": "$6.6B (@ $87.68)",
-            "price": 87.68,
+            "value": "$6.6B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2983,8 +2724,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "68045981",
-            "value": "$6.0B (@ $87.68)",
-            "price": 87.68,
+            "value": "$5.9B (@ $87.35)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -2992,7 +2732,7 @@
         ]
       },
       "insider": {
-        "total_filings": 206,
+        "total_filings": 205,
         "total_trades": 37,
         "buys": 15,
         "sells": 22,
@@ -3002,9 +2742,9 @@
     },
     "ADBE": {
       "price": {
-        "price": 240.49,
-        "change_pct": -1.74456,
-        "market_cap": 97206059008
+        "price": 238.24,
+        "change_pct": -0.93559,
+        "market_cap": 96296607744
       },
       "institutional": {
         "ownership_pct": "92.02%",
@@ -3012,8 +2752,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "40809940",
-            "value": "$9.8B (@ $240.49)",
-            "price": 240.49,
+            "value": "$9.7B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3021,8 +2760,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "26679971",
-            "value": "$6.4B (@ $240.49)",
-            "price": 240.49,
+            "value": "$6.4B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3030,8 +2768,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "19913187",
-            "value": "$4.8B (@ $240.49)",
-            "price": 240.49,
+            "value": "$4.7B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3039,8 +2776,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "11726888",
-            "value": "$2.8B (@ $240.49)",
-            "price": 240.49,
+            "value": "$2.8B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3048,8 +2784,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "9972632",
-            "value": "$2.4B (@ $240.49)",
-            "price": 240.49,
+            "value": "$2.4B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3057,8 +2792,7 @@
           {
             "holder": "Arrowstreet Capital, Limited Partnership",
             "shares": "6792275",
-            "value": "$1.6B (@ $240.49)",
-            "price": 240.49,
+            "value": "$1.6B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3066,8 +2800,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "5676933",
-            "value": "$1.4B (@ $240.49)",
-            "price": 240.49,
+            "value": "$1.4B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3075,8 +2808,7 @@
           {
             "holder": "Invesco Ltd.",
             "shares": "5571545",
-            "value": "$1.3B (@ $240.49)",
-            "price": 240.49,
+            "value": "$1.3B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3084,8 +2816,7 @@
           {
             "holder": "Bank Of New York Mellon Corporation",
             "shares": "5206791",
-            "value": "$1.3B (@ $240.49)",
-            "price": 240.49,
+            "value": "$1.2B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3093,8 +2824,7 @@
           {
             "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
             "shares": "5026552",
-            "value": "$1.2B (@ $240.49)",
-            "price": 240.49,
+            "value": "$1.2B (@ $238.24)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3112,9 +2842,9 @@
     },
     "NVO": {
       "price": {
-        "price": 44.19,
-        "change_pct": -1.71263,
-        "market_cap": 195841933312
+        "price": 44.55,
+        "change_pct": 0.814665,
+        "market_cap": 197390598144
       },
       "institutional": {
         "ownership_pct": "9.61%",
@@ -3122,8 +2852,7 @@
           {
             "holder": "Dodge & Cox Inc.",
             "shares": "19333750",
-            "value": "$854.4M (@ $44.19)",
-            "price": 44.19,
+            "value": "$861.3M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3131,8 +2860,7 @@
           {
             "holder": "LOOMIS SAYLES & CO L P",
             "shares": "17017315",
-            "value": "$752.0M (@ $44.19)",
-            "price": 44.19,
+            "value": "$758.1M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3140,8 +2868,7 @@
           {
             "holder": "Franklin Resources, Inc.",
             "shares": "16083479",
-            "value": "$710.7M (@ $44.19)",
-            "price": 44.19,
+            "value": "$716.5M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3149,8 +2876,7 @@
           {
             "holder": "Capital International Investors",
             "shares": "11795850",
-            "value": "$521.3M (@ $44.19)",
-            "price": 44.19,
+            "value": "$525.5M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3158,8 +2884,7 @@
           {
             "holder": "Susquehanna International Group, LLP",
             "shares": "11106111",
-            "value": "$490.8M (@ $44.19)",
-            "price": 44.19,
+            "value": "$494.8M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3167,8 +2892,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "11060680",
-            "value": "$488.8M (@ $44.19)",
-            "price": 44.19,
+            "value": "$492.8M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3176,8 +2900,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "10869200",
-            "value": "$480.3M (@ $44.19)",
-            "price": 44.19,
+            "value": "$484.2M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3185,8 +2908,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "10769699",
-            "value": "$475.9M (@ $44.19)",
-            "price": 44.19,
+            "value": "$479.8M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3194,8 +2916,7 @@
           {
             "holder": "Fisher Asset Management, LLC",
             "shares": "9021103",
-            "value": "$398.6M (@ $44.19)",
-            "price": 44.19,
+            "value": "$401.9M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3203,8 +2924,7 @@
           {
             "holder": "Folketrygdfondet",
             "shares": "9080820",
-            "value": "$401.3M (@ $44.19)",
-            "price": 44.19,
+            "value": "$404.6M (@ $44.55)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3222,9 +2942,9 @@
     },
     "LLY": {
       "price": {
-        "price": 1064.74,
-        "change_pct": -0.0244141,
-        "market_cap": 949472722944
+        "price": 1082.92,
+        "change_pct": 1.70746,
+        "market_cap": 965684625408
       },
       "institutional": {
         "ownership_pct": "92.74%",
@@ -3232,8 +2952,7 @@
           {
             "holder": "Lilly Endowment, Inc",
             "shares": "91896978",
-            "value": "$97.8B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$99.5B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3241,8 +2960,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "66380842",
-            "value": "$70.7B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$71.9B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3250,8 +2968,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "53361774",
-            "value": "$56.8B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$57.8B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3259,8 +2976,7 @@
           {
             "holder": "PNC Financial Services Group, Inc.",
             "shares": "51328908",
-            "value": "$54.7B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$55.6B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3268,8 +2984,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "35610002",
-            "value": "$37.9B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$38.6B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3277,8 +2992,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "26341031",
-            "value": "$28.0B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$28.5B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3286,8 +3000,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "24632647",
-            "value": "$26.2B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$26.7B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3295,8 +3008,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "20977027",
-            "value": "$22.3B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$22.7B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3304,8 +3016,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "20191864",
-            "value": "$21.5B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$21.9B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3313,8 +3024,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "15621813",
-            "value": "$16.6B (@ $1064.74)",
-            "price": 1064.74,
+            "value": "$16.9B (@ $1082.92)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3332,9 +3042,9 @@
     },
     "AVGO": {
       "price": {
-        "price": 422.01,
-        "change_pct": 1.90032,
-        "market_cap": 1998077427712
+        "price": 421.86,
+        "change_pct": -0.03555,
+        "market_cap": 1997367148544
       },
       "institutional": {
         "ownership_pct": "87.81%",
@@ -3342,8 +3052,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "385944774",
-            "value": "$162.9B (@ $422.01)",
-            "price": 422.01,
+            "value": "$162.8B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3351,8 +3060,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "308015865",
-            "value": "$130.0B (@ $422.01)",
-            "price": 422.01,
+            "value": "$129.9B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3360,8 +3068,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "191380232",
-            "value": "$80.8B (@ $422.01)",
-            "price": 422.01,
+            "value": "$80.7B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3369,8 +3076,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "128422947",
-            "value": "$54.2B (@ $422.01)",
-            "price": 422.01,
+            "value": "$54.2B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3378,8 +3084,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "124112876",
-            "value": "$52.4B (@ $422.01)",
-            "price": 422.01,
+            "value": "$52.4B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3387,8 +3092,7 @@
           {
             "holder": "Capital World Investors",
             "shares": "116188483",
-            "value": "$49.0B (@ $422.01)",
-            "price": 422.01,
+            "value": "$49.0B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3396,8 +3100,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "116025298",
-            "value": "$49.0B (@ $422.01)",
-            "price": 422.01,
+            "value": "$48.9B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3405,8 +3108,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "114280922",
-            "value": "$48.2B (@ $422.01)",
-            "price": 422.01,
+            "value": "$48.2B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3414,8 +3116,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "91782808",
-            "value": "$38.7B (@ $422.01)",
-            "price": 422.01,
+            "value": "$38.7B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3423,8 +3124,7 @@
           {
             "holder": "Price (T.Rowe) Associates Inc",
             "shares": "84470754",
-            "value": "$35.6B (@ $422.01)",
-            "price": 422.01,
+            "value": "$35.6B (@ $421.86)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3442,9 +3142,9 @@
     },
     "ORCL": {
       "price": {
-        "price": 193.06,
-        "change_pct": 0.510202,
-        "market_cap": 555249434624
+        "price": 190.96,
+        "change_pct": -1.08774,
+        "market_cap": 549209767936
       },
       "institutional": {
         "ownership_pct": "49.08%",
@@ -3452,8 +3152,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "143310374",
-            "value": "$27.7B (@ $193.06)",
-            "price": 193.06,
+            "value": "$27.4B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3461,8 +3160,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "111115412",
-            "value": "$21.5B (@ $193.06)",
-            "price": 193.06,
+            "value": "$21.2B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3470,8 +3168,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "76303175",
-            "value": "$14.7B (@ $193.06)",
-            "price": 193.06,
+            "value": "$14.6B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3479,8 +3176,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "56745677",
-            "value": "$11.0B (@ $193.06)",
-            "price": 193.06,
+            "value": "$10.8B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3488,8 +3184,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "38948218",
-            "value": "$7.5B (@ $193.06)",
-            "price": 193.06,
+            "value": "$7.4B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3497,8 +3192,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "32492417",
-            "value": "$6.3B (@ $193.06)",
-            "price": 193.06,
+            "value": "$6.2B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3506,8 +3200,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "32139254",
-            "value": "$6.2B (@ $193.06)",
-            "price": 193.06,
+            "value": "$6.1B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3515,8 +3208,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "29132672",
-            "value": "$5.6B (@ $193.06)",
-            "price": 193.06,
+            "value": "$5.6B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3524,8 +3216,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "22880840",
-            "value": "$4.4B (@ $193.06)",
-            "price": 193.06,
+            "value": "$4.4B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3533,8 +3224,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "18807683",
-            "value": "$3.6B (@ $193.06)",
-            "price": 193.06,
+            "value": "$3.6B (@ $190.96)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3552,9 +3242,9 @@
     },
     "ABBV": {
       "price": {
-        "price": 213.12,
-        "change_pct": -1.19611,
-        "market_cap": 376538890240
+        "price": 215.4,
+        "change_pct": 1.06982,
+        "market_cap": 380567158784
       },
       "institutional": {
         "ownership_pct": "85.43%",
@@ -3562,8 +3252,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "150698125",
-            "value": "$32.1B (@ $213.12)",
-            "price": 213.12,
+            "value": "$32.5B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3571,8 +3260,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "114880324",
-            "value": "$24.5B (@ $213.12)",
-            "price": 213.12,
+            "value": "$24.7B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3580,8 +3268,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "81217516",
-            "value": "$17.3B (@ $213.12)",
-            "price": 213.12,
+            "value": "$17.5B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3589,8 +3276,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "56741691",
-            "value": "$12.1B (@ $213.12)",
-            "price": 213.12,
+            "value": "$12.2B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3598,8 +3284,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "49523078",
-            "value": "$10.6B (@ $213.12)",
-            "price": 213.12,
+            "value": "$10.7B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3607,8 +3292,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "46737581",
-            "value": "$10.0B (@ $213.12)",
-            "price": 213.12,
+            "value": "$10.1B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3616,8 +3300,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "38016774",
-            "value": "$8.1B (@ $213.12)",
-            "price": 213.12,
+            "value": "$8.2B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3625,8 +3308,7 @@
           {
             "holder": "Capital Research Global Investors",
             "shares": "31254786",
-            "value": "$6.7B (@ $213.12)",
-            "price": 213.12,
+            "value": "$6.7B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3634,8 +3316,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "23936943",
-            "value": "$5.1B (@ $213.12)",
-            "price": 213.12,
+            "value": "$5.2B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3643,8 +3324,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "21762703",
-            "value": "$4.6B (@ $213.12)",
-            "price": 213.12,
+            "value": "$4.7B (@ $215.4)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3662,9 +3342,9 @@
     },
     "PEP": {
       "price": {
-        "price": 145.68,
-        "change_pct": -3.24767,
-        "market_cap": 199135936512
+        "price": 147.74,
+        "change_pct": 1.41407,
+        "market_cap": 201951854592
       },
       "institutional": {
         "ownership_pct": "87.07%",
@@ -3672,8 +3352,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "115841477",
-            "value": "$16.9B (@ $145.68)",
-            "price": 145.68,
+            "value": "$17.1B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3681,8 +3360,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "88807774",
-            "value": "$12.9B (@ $145.68)",
-            "price": 145.68,
+            "value": "$13.1B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3690,8 +3368,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "59419350",
-            "value": "$8.7B (@ $145.68)",
-            "price": 145.68,
+            "value": "$8.8B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3699,8 +3376,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "36455039",
-            "value": "$5.3B (@ $145.68)",
-            "price": 145.68,
+            "value": "$5.4B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3708,8 +3384,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "34798932",
-            "value": "$5.1B (@ $145.68)",
-            "price": 145.68,
+            "value": "$5.1B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3717,8 +3392,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "34611819",
-            "value": "$5.0B (@ $145.68)",
-            "price": 145.68,
+            "value": "$5.1B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3726,8 +3400,7 @@
           {
             "holder": "Charles Schwab Investment Management, Inc.",
             "shares": "30210808",
-            "value": "$4.4B (@ $145.68)",
-            "price": 145.68,
+            "value": "$4.5B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3735,8 +3408,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "26581174",
-            "value": "$3.9B (@ $145.68)",
-            "price": 145.68,
+            "value": "$3.9B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3744,8 +3416,7 @@
           {
             "holder": "Bank of America Corporation",
             "shares": "21283701",
-            "value": "$3.1B (@ $145.68)",
-            "price": 145.68,
+            "value": "$3.1B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3753,8 +3424,7 @@
           {
             "holder": "Northern Trust Corporation",
             "shares": "14853134",
-            "value": "$2.2B (@ $145.68)",
-            "price": 145.68,
+            "value": "$2.2B (@ $147.74)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3772,9 +3442,9 @@
     },
     "KO": {
       "price": {
-        "price": 80.46,
-        "change_pct": -1.25185,
-        "market_cap": 346177732608
+        "price": 81.62,
+        "change_pct": 1.44171,
+        "market_cap": 351168626688
       },
       "institutional": {
         "ownership_pct": "84.33%",
@@ -3782,8 +3452,7 @@
           {
             "holder": "Berkshire Hathaway, Inc",
             "shares": "400000000",
-            "value": "$32.2B (@ $80.46)",
-            "price": 80.46,
+            "value": "$32.6B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3791,8 +3460,7 @@
           {
             "holder": "Blackrock Inc.",
             "shares": "333596781",
-            "value": "$26.8B (@ $80.46)",
-            "price": 80.46,
+            "value": "$27.2B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3800,8 +3468,7 @@
           {
             "holder": "Vanguard Capital Management LLC",
             "shares": "237452767",
-            "value": "$19.1B (@ $80.46)",
-            "price": 80.46,
+            "value": "$19.4B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3809,8 +3476,7 @@
           {
             "holder": "State Street Corporation",
             "shares": "167222395",
-            "value": "$13.5B (@ $80.46)",
-            "price": 80.46,
+            "value": "$13.6B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3818,8 +3484,7 @@
           {
             "holder": "FMR, LLC",
             "shares": "107577934",
-            "value": "$8.7B (@ $80.46)",
-            "price": 80.46,
+            "value": "$8.8B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3827,8 +3492,7 @@
           {
             "holder": "Vanguard Portfolio Management LLC",
             "shares": "99948626",
-            "value": "$8.0B (@ $80.46)",
-            "price": 80.46,
+            "value": "$8.2B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3836,8 +3500,7 @@
           {
             "holder": "Geode Capital Management, LLC",
             "shares": "92954629",
-            "value": "$7.5B (@ $80.46)",
-            "price": 80.46,
+            "value": "$7.6B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3845,8 +3508,7 @@
           {
             "holder": "Morgan Stanley",
             "shares": "91894070",
-            "value": "$7.4B (@ $80.46)",
-            "price": 80.46,
+            "value": "$7.5B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3854,8 +3516,7 @@
           {
             "holder": "Charles Schwab Investment Management, Inc.",
             "shares": "76339039",
-            "value": "$6.1B (@ $80.46)",
-            "price": 80.46,
+            "value": "$6.2B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3863,8 +3524,7 @@
           {
             "holder": "JPMORGAN CHASE & CO",
             "shares": "70592595",
-            "value": "$5.7B (@ $80.46)",
-            "price": 80.46,
+            "value": "$5.8B (@ $81.62)",
             "change_pct": "",
             "pct_out": "",
             "date": "2026-03-31 00:00:00"
@@ -3932,6 +3592,149 @@
       "value": 152595,
       "security": "Common Stock",
       "filing_date": "2026-05-26",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Schindler Philipp",
+      "role": "SVP, Chief Business Officer",
+      "date": "2026-05-25",
+      "type": "C",
+      "shares": 1995,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Schindler Philipp",
+      "role": "SVP, Chief Business Officer",
+      "date": "2026-05-25",
+      "type": "SELL",
+      "shares": 2013,
+      "price": 379.38,
+      "value": 763692,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Pichai Sundar",
+      "role": "Chief Executive Officer",
+      "date": "2026-05-25",
+      "type": "C",
+      "shares": 3666,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Pichai Sundar",
+      "role": "Chief Executive Officer",
+      "date": "2026-05-25",
+      "type": "SELL",
+      "shares": 3700,
+      "price": 379.38,
+      "value": 1403706,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "WALKER JOHN KENT",
+      "role": "President, Global Affairs, CLO",
+      "date": "2026-05-25",
+      "type": "C",
+      "shares": 1624,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "WALKER JOHN KENT",
+      "role": "President, Global Affairs, CLO",
+      "date": "2026-05-25",
+      "type": "SELL",
+      "shares": 1639,
+      "price": 379.38,
+      "value": 621804,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Porat Ruth",
+      "role": "President and CIO",
+      "date": "2026-05-25",
+      "type": "C",
+      "shares": 1624,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Porat Ruth",
+      "role": "President and CIO",
+      "date": "2026-05-25",
+      "type": "SELL",
+      "shares": 1639,
+      "price": 379.38,
+      "value": 621804,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Ashkenazi Anat",
+      "role": "SVP, Chief Financial Officer",
+      "date": "2026-05-25",
+      "type": "C",
+      "shares": 1763,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "GOOGL",
+      "insider_name": "Ashkenazi Anat",
+      "role": "SVP, Chief Financial Officer",
+      "date": "2026-05-25",
+      "type": "SELL",
+      "shares": 1780,
+      "price": 379.38,
+      "value": 675296,
+      "security": "Common Stock",
+      "filing_date": "2026-05-25",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Zapolsky David",
+      "role": "Senior Vice President",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 9270,
+      "price": 268.53,
+      "value": 2489273,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
       "derivative": false
     },
     {
@@ -4143,55 +3946,120 @@
       "derivative": false
     },
     {
-      "ticker": "AMZN",
-      "insider_name": "Zapolsky David",
-      "role": "Senior Vice President",
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
       "date": "2026-05-22",
       "type": "SELL",
-      "shares": 9270,
-      "price": 268.53,
-      "value": 2489273,
+      "shares": 1033,
+      "price": 185.16,
+      "value": 191270,
       "security": "Common Stock",
       "filing_date": "2026-05-22",
       "derivative": false
     },
     {
-      "ticker": "WMT",
-      "insider_name": "Furner John R.",
-      "role": "President &amp; CEO",
-      "date": "2026-05-21",
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
       "type": "SELL",
-      "shares": 12100,
-      "price": 124.01,
-      "value": 1500521,
+      "shares": 500,
+      "price": 186.27,
+      "value": 93135,
       "security": "Common Stock",
-      "filing_date": "2026-05-21",
+      "filing_date": "2026-05-22",
       "derivative": false
     },
     {
-      "ticker": "WMT",
-      "insider_name": "Furner John R.",
-      "role": "President &amp; CEO",
-      "date": "2026-05-21",
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
       "type": "SELL",
-      "shares": 1025,
-      "price": 124.93,
-      "value": 128053,
+      "shares": 600,
+      "price": 187.98,
+      "value": 112788,
       "security": "Common Stock",
-      "filing_date": "2026-05-21",
+      "filing_date": "2026-05-22",
       "derivative": false
     },
     {
-      "ticker": "WMT",
-      "insider_name": "Nicholas Christopher James",
-      "role": "Executive Vice President",
-      "date": "2026-05-21",
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
       "type": "SELL",
-      "shares": 2900,
-      "price": 123.92,
-      "value": 359368,
+      "shares": 2200,
+      "price": 188.78,
+      "value": 415316,
       "security": "Common Stock",
-      "filing_date": "2026-05-21",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 783,
+      "price": 189.47,
+      "value": 148355,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 300,
+      "price": 191.47,
+      "value": 57441,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 500,
+      "price": 192.71,
+      "value": 96355,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 400,
+      "price": 193.63,
+      "value": 77452,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
+      "derivative": false
+    },
+    {
+      "ticker": "COIN",
+      "insider_name": "Brock Lawrence J",
+      "role": "Chief People Officer",
+      "date": "2026-05-22",
+      "type": "SELL",
+      "shares": 300,
+      "price": 194.57,
+      "value": 58371,
+      "security": "Common Stock",
+      "filing_date": "2026-05-22",
       "derivative": false
     },
     {
@@ -4645,6 +4513,45 @@
       "shares": 300,
       "price": 263.99,
       "value": 79197,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Furner John R.",
+      "role": "President &amp; CEO",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 12100,
+      "price": 124.01,
+      "value": 1500521,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Furner John R.",
+      "role": "President &amp; CEO",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 1025,
+      "price": 124.93,
+      "value": 128053,
+      "security": "Common Stock",
+      "filing_date": "2026-05-21",
+      "derivative": false
+    },
+    {
+      "ticker": "WMT",
+      "insider_name": "Nicholas Christopher James",
+      "role": "Executive Vice President",
+      "date": "2026-05-21",
+      "type": "SELL",
+      "shares": 2900,
+      "price": 123.92,
+      "value": 359368,
       "security": "Common Stock",
       "filing_date": "2026-05-21",
       "derivative": false
@@ -7081,6 +6988,136 @@
       "derivative": false
     },
     {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 13500,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 3389,
+      "price": 261.7887,
+      "value": 887202,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 6151,
+      "price": 262.8454,
+      "value": 1616762,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Garman Matthew S",
+      "role": "CEO Amazon Web Services",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 1935,
+      "price": 263.5705,
+      "value": 510009,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 9353,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 1044,
+      "price": 261.7441,
+      "value": 273261,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 2098,
+      "price": 262.725,
+      "value": 551197,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-05-15",
+      "type": "SELL",
+      "shares": 600,
+      "price": 263.5733,
+      "value": 158144,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": false
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "Ng Andrew Y.",
+      "role": "",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 1984,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
+      "ticker": "AMZN",
+      "insider_name": "NOOYI INDRA K",
+      "role": "",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "shares": 1602,
+      "price": 0.0,
+      "value": 0,
+      "security": "Common Stock",
+      "filing_date": "2026-05-15",
+      "derivative": true
+    },
+    {
       "ticker": "META",
       "insider_name": "Powell Dina H.",
       "role": "President and Vice Chairman",
@@ -7794,136 +7831,6 @@
       "security": "Common Stock",
       "filing_date": "2026-05-15",
       "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 13500,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 3389,
-      "price": 261.7887,
-      "value": 887202,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 6151,
-      "price": 262.8454,
-      "value": 1616762,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Garman Matthew S",
-      "role": "CEO Amazon Web Services",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 1935,
-      "price": 263.5705,
-      "value": 510009,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 9353,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 1044,
-      "price": 261.7441,
-      "value": 273261,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 2098,
-      "price": 262.725,
-      "value": 551197,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Herrington Douglas J",
-      "role": "CEO Worldwide Amazon Stores",
-      "date": "2026-05-15",
-      "type": "SELL",
-      "shares": 600,
-      "price": 263.5733,
-      "value": 158144,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": false
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "Ng Andrew Y.",
-      "role": "",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 1984,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
-    },
-    {
-      "ticker": "AMZN",
-      "insider_name": "NOOYI INDRA K",
-      "role": "",
-      "date": "2026-05-15",
-      "type": "BUY",
-      "shares": 1602,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-05-15",
-      "derivative": true
     },
     {
       "ticker": "MSFT",
@@ -10201,110 +10108,6 @@
       "derivative": false
     },
     {
-      "ticker": "GOOGL",
-      "insider_name": "Schindler Philipp",
-      "role": "SVP, Chief Business Officer",
-      "date": "2026-04-25",
-      "type": "C",
-      "shares": 7980,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Schindler Philipp",
-      "role": "SVP, Chief Business Officer",
-      "date": "2026-04-25",
-      "type": "SELL",
-      "shares": 8054,
-      "price": 342.32,
-      "value": 2757045,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "WALKER JOHN KENT",
-      "role": "President, Global Affairs, CLO",
-      "date": "2026-04-25",
-      "type": "C",
-      "shares": 6495,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "WALKER JOHN KENT",
-      "role": "President, Global Affairs, CLO",
-      "date": "2026-04-25",
-      "type": "SELL",
-      "shares": 6555,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Ashkenazi Anat",
-      "role": "SVP, Chief Financial Officer",
-      "date": "2026-04-25",
-      "type": "C",
-      "shares": 7051,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Ashkenazi Anat",
-      "role": "SVP, Chief Financial Officer",
-      "date": "2026-04-25",
-      "type": "SELL",
-      "shares": 7117,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Pichai Sundar",
-      "role": "Chief Executive Officer",
-      "date": "2026-04-25",
-      "type": "C",
-      "shares": 3666,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Pichai Sundar",
-      "role": "Chief Executive Officer",
-      "date": "2026-04-25",
-      "type": "SELL",
-      "shares": 3700,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-04-25",
-      "derivative": false
-    },
-    {
       "ticker": "AAPL",
       "insider_name": "Parekh Kevan",
       "role": "Senior Vice President, CFO",
@@ -10729,162 +10532,6 @@
       "shares": 1363,
       "price": 393.11,
       "value": 535809,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 105,
-      "price": 330.54,
-      "value": 34707,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 105,
-      "price": 331.74,
-      "value": 34833,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 75,
-      "price": 332.91,
-      "value": 24968,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 72,
-      "price": 334.35,
-      "value": 24073,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 34,
-      "price": 329.88,
-      "value": 11216,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 137,
-      "price": 330.91,
-      "value": 45335,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 68,
-      "price": 331.88,
-      "value": 22568,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 85,
-      "price": 332.92,
-      "value": 28298,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 68,
-      "price": 329.78,
-      "value": 22425,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 142,
-      "price": 330.67,
-      "value": 46955,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 64,
-      "price": 331.84,
-      "value": 21238,
-      "security": "Common Stock",
-      "filing_date": "2026-04-15",
-      "derivative": false
-    },
-    {
-      "ticker": "GOOGL",
-      "insider_name": "Hennessy John L.",
-      "role": "",
-      "date": "2026-04-15",
-      "type": "SELL",
-      "shares": 95,
-      "price": 332.81,
-      "value": 31617,
       "security": "Common Stock",
       "filing_date": "2026-04-15",
       "derivative": false
@@ -13711,97 +13358,6 @@
       "derivative": false
     },
     {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 80,
-      "price": 172.67,
-      "value": 13814,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 300,
-      "price": 173.5541,
-      "value": 52066,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 274,
-      "price": 174.5387,
-      "value": 47824,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 380,
-      "price": 175.5272,
-      "value": 66700,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 125,
-      "price": 176.5254,
-      "value": 22066,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 105,
-      "price": 177.4355,
-      "value": 18631,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
-      "ticker": "COIN",
-      "insider_name": "Grewal Paul",
-      "role": "Chief Legal Officer",
-      "date": "2026-02-27",
-      "type": "SELL",
-      "shares": 50,
-      "price": 178.421,
-      "value": 8921,
-      "security": "Common Stock",
-      "filing_date": "2026-02-27",
-      "derivative": false
-    },
-    {
       "ticker": "SMCI",
       "insider_name": "Liang Charles",
       "role": "President and CEO",
@@ -14441,19 +13997,6 @@
     {
       "ticker": "XOM",
       "insider_name": "Dreyfus Maria S.",
-      "role": "",
-      "date": "2026-01-02",
-      "type": "BUY",
-      "shares": 2500,
-      "price": 0.0,
-      "value": 0,
-      "security": "Common Stock",
-      "filing_date": "2026-01-02",
-      "derivative": false
-    },
-    {
-      "ticker": "XOM",
-      "insider_name": "Garland Greg C.",
       "role": "",
       "date": "2026-01-02",
       "type": "BUY",
